@@ -1,0 +1,31 @@
+_repo: An-Examination-into-and-an-Elucidation-of-the-Great-Principle-of-the-Mediation-and-Atonement-__36327
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, John
+    birthdate: 1808
+    deathdate: 1887
+    gutenberg_agent_id: '43104'
+    url: http://www.gutenberg.org/2009/agents/43104
+    wikipedia: http://en.wikipedia.org/wiki/John_Taylor_%28Mormon%29
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2011-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36327'
+  lccn: '38011157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Mormon Church -- Doctrines'
+- !lcsh 'Atonement -- Mormon Church'
+title: An Examination into and an Elucidation of the Great Principle of the Mediation
+  and Atonement of Our Lord and Savior Jesus Christ
+url: http://www.gutenberg.org/ebooks/36327
